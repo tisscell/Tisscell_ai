@@ -1,10 +1,10 @@
-# Tisscell AI Blog
-### Modern Affiliate & SaaS Solutions
-This is the main repository for my blog website.
-
-**Live Site:** [https://tisscell.github.io/Tisscell_ai/](https://tisscell.github.io/Tisscell_ai/)
-
-## Features
-- Modern Card Layout
-- Navy & Gold Theme
-- Affiliate Link CTAs
+/my-affiliate-blog
+│-- index.html       (Home)
+│-- blog.html        (Archive)
+│-- post.html        (The template you'll copy for new posts)
+│-- tools.html       (Resources)
+│-- about.html       (Bio)
+│-- contact.html     (Reach out)
+│-- styles.css       (The "Makeup" of your site)
+│-- script.js       (Small interactions)
+└── /images          (Folder to store your photos)
