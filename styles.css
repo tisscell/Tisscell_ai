@@ -1,0 +1,29 @@
+:root {
+    --navy: #0A1F44;
+    --gold: #D4AF37;
+    --white: #FFFFFF;
+}
+
+body { font-family: 'Segoe UI', sans-serif; margin: 0; color: var(--navy); }
+
+nav { background: var(--navy); padding: 20px; display: flex; justify-content: space-between; color: white; }
+
+.hero { background: var(--navy); color: white; padding: 80px 20px; text-align: center; }
+
+.btn-gold { 
+    background: var(--gold); 
+    color: var(--navy); 
+    padding: 12px 25px; 
+    text-decoration: none; 
+    font-weight: bold; 
+    border-radius: 5px; 
+    display: inline-block; 
+}
+
+.card { 
+    background: #f4f4f4; 
+    padding: 20px; 
+    border-radius: 10px; 
+    border-left: 5px solid var(--gold); 
+    margin-top: 20px; 
+}
