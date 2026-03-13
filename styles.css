@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommended Tools | Tisscell AI</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <div style="color: var(--gold); font-weight: bold;">TISSCELL AI</div>
+        <a href="index.html" style="color: white; text-decoration: none;">Back Home</a>
+    </nav>
+
+    <div style="padding: 50px 20px; max-width: 800px; margin: auto;">
+        <h1>Top SaaS Tools</h1>
+        
+        <div class="card">
+            <h3>The Best AI Tool</h3>
+            <p>This tool helps you automate your entire workflow.</p>
+            <a href="#" class="btn-gold">Get the Deal</a>
+        </div>
+    </div>
+</body>
+</html>
